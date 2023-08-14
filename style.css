@@ -1,0 +1,12 @@
+.title{
+    color:blue;
+}
+.Counter{
+    font-size: 2rem;
+    padding: auto;
+}
+button{
+    font-size:.8rem;
+    margin:0.5px;
+    border-radius: 0px;
+}
